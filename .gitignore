@@ -1,2 +1,8 @@
 # MacOS Silliness
 .DS_Store
+
+# JetBrains
+.idea/
+
+# Maven
+target/
