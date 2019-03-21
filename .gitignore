@@ -1,2 +1,11 @@
 # MacOS Silliness
 .DS_Store
+
+# JetBrains
+.idea/
+
+# Gradle
+.gradle
+
+# Build items
+out
