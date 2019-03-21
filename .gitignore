@@ -6,3 +6,10 @@
 
 # Maven
 target/
+
+# Gradle
+.gradle
+
+# Build items
+out
+
